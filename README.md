@@ -4,10 +4,17 @@ Four servo motors on an **Arduino Uno** run the classic **Sweep** motion togethe
 
 ![The finished Tinkercad circuit — Arduino Uno driving four servos](docs/screenshots/circuit.png)
 
-> 🔗 **Open the circuit in Tinkercad (live):** https://www.tinkercad.com/things/hw2H0GCtmVS-exquisite-hillar?sharecode=1qT-GIzIRtQaZ4dm_rTE8ap5UO8XWDL_4PuD9AocLoY
-> *(the `sharecode` in the link is what makes it viewable by anyone — keep it on the URL)*
+### ▶️ [**Open the live demo →**](https://sniper797.github.io/ST-2026-Arduino-4-Servo-Sweep/)
+
+Hosted on GitHub Pages — watch the four servos sweep and then hold, plus the real Tinkercad
+recording, right in your browser. No install, no Arduino needed.
+
+> 🔗 **Live demo (GitHub Pages):** https://sniper797.github.io/ST-2026-Arduino-4-Servo-Sweep/
+> — the interactive simulation ([`index.html`](index.html)) with a millisecond clock, an
+> angle-vs-time graph, and the embedded demo video.
 >
-> 🔗 **Live simulation:** open [`index.html`](index.html) in any browser to watch the four servos sweep and then hold — with a millisecond clock and an angle-vs-time graph. *(No install, no Arduino needed. If you enable GitHub Pages on this repo, it will also be live at `https://sniper797.github.io/ST-2026-Arduino-4-Servo-Sweep/`.)*
+> 🔗 **Open the circuit in Tinkercad:** https://www.tinkercad.com/things/hw2H0GCtmVS-exquisite-hillar?sharecode=1qT-GIzIRtQaZ4dm_rTE8ap5UO8XWDL_4PuD9AocLoY
+> *(the `sharecode` in the link is what makes it viewable by anyone — keep it on the URL)*
 
 ---
 
@@ -61,7 +68,7 @@ reading of the brief: *sweep **for** 2 seconds*, not *finish a full sweep*.
 ▶️ **[Play the recording](docs/screenshots/demo.mp4)** — a screen capture of this exact
 sketch running in the Tinkercad simulator: the four servos sweep, then hold at 90°.
 
-> The video **plays inline on the [GitHub Pages site](https://sniper797.github.io/ST-2026-Arduino-4-Servo-Sweep/)** (once Pages is enabled). GitHub does not play a committed video *inside* a README, so here it appears as the clickable thumbnail above. To make it play *inline in this README* instead, open the README in GitHub's web editor and drag `docs/screenshots/demo.mp4` into it — GitHub re-hosts it as an inline player.
+> The video **plays inline on the [live GitHub Pages site](https://sniper797.github.io/ST-2026-Arduino-4-Servo-Sweep/)**. GitHub does not play a committed video *inside* a README, so here it appears as the clickable thumbnail above. To make it play *inline in this README* instead, open the README in GitHub's web editor and drag `docs/screenshots/demo.mp4` into it — GitHub re-hosts it as an inline player.
 
 ## 5. The demo page
 
